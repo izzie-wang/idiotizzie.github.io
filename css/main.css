@@ -4,10 +4,13 @@ body {
     background-color: #ffcccc;
 }
 nav ul{
-    font-family:'didot';
+    list-style-type: none; /*to remove bullets*/
+    text-align: center;
+    margin: 0 auto;
     padding: 0px;
-    list-style: none;
-    font-weight: bold;
+    border:1px solid red;
+    display:table;
+    overflow: hidden;
 }
 nav ul li{
     display: inline;
