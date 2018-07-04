@@ -8,7 +8,6 @@ nav ul{
     text-align: center;
     margin: 0 auto;
     padding: 0px;
-    border:1px solid red;
     display:table;
     overflow: hidden;
 }
@@ -18,6 +17,7 @@ nav ul li{
     width: 150px;
     margin-left: auto ;
     margin-right: auto ;
+    font-family: "Times New Roman", Times, serif;
 }
 h1 {
     color: white;
