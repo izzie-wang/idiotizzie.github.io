@@ -3,36 +3,21 @@ body {
     width: 70%;
     background-color: #ffcccc;
 }
-nav ul, footer ul {
+nav ul{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-nav ul li, footer ul li {
+nav ul li{
     display: inline;
     margin-right: 20px;
     color: white;
     text-align: center;
 }
-a {
-    text-decoration: none;
-    color: #999;
-}
-a:hover {
-    text-decoration: underline;
-}
 h1 {
     color: white;
     text-align: center;
-}
-p {
-    font-family: didot;
-    font-size: 40px;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
 }
 
 
